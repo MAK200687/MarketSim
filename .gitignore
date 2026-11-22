@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+data/investor.json
+data/marketsim.db
